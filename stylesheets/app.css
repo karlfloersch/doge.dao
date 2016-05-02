@@ -3,7 +3,7 @@ body {
   margin-right: 20%;
   /* margin-top: 10%; */
   font-family: "Open Sans", sans-serif;
-background-image: url("images/dogebg.png");
+background-image: url("../images/dogebg.png");
 }
 
 label {
